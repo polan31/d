@@ -1,10 +1,10 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.UI;
+	using System.Collections;
+	using System.Collections.Generic;
+	using UnityEngine;
+	using UnityEngine.UI;
 
-public class Gameplay : MonoBehaviour
-{
+	public class Gameplay : MonoBehaviour
+	{
     //<>
 
     //NOTE: THE POSITION OF THE NODES IN THE ARRAY WILL NOT BE THEIR POSITIONS IN THE REAL GRID AFTER THE GAME STARTS
@@ -450,5 +450,5 @@ public class Gameplay : MonoBehaviour
         return null;
     }
 
-}
+    }
 
